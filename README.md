@@ -18,6 +18,3 @@ Feel free to explore my repositories, which demonstrate my ability to merge fina
 business performance and I am continuously improving my technical skills.
 
 ---
-
-**Contact**:  
-[LinkedIn](www.linkedin.com/in/natalia-syrychenko)  
