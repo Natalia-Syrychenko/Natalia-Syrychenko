@@ -20,4 +20,4 @@ business performance and I am continuously improving my technical skills.
 ---
 
 **Contact**:  
-[LinkedIn](www.linkedin.com/in/natalia-syrychenko-96a670a7)  
+[LinkedIn](www.linkedin.com/in/natalia-syrychenko)  
