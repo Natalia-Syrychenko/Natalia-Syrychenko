@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dr. Natalia Syrychenko
 
-**Finance Professional | Aspiring Data Analyst**
+**Finance Professional | Data Analyst**
 
 I am a finance professional transitioning into data analytics with over a decade of experience in corporate banking, financial analysis, and treasury operations.
 I have successfully managed complex financial operations and business planning for multinational companies, delivering strategic insights and financial solutions.
