@@ -5,7 +5,7 @@
 I am a finance professional transitioning into data analytics with over a decade of experience in corporate banking, financial analysis, and treasury operations.
 I have successfully managed complex financial operations and business planning for multinational companies, delivering strategic insights and financial solutions.
 
-Currently, I am expanding my technical skills through the Masterschool Data Analyst program, focusing on SQL, data visualization, and business intelligence.
+I expanded my technical skills through the Masterschool Data Analyst program, focusing on SQL, data visualization, and business intelligence.
 My goal is to leverage my financial expertise along with data-driven analysis to support better decision-making within organizations.
 
 **Skills**:
