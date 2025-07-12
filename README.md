@@ -12,7 +12,7 @@ My goal is to leverage my financial expertise along with data-driven analysis to
 - Financial Analysis
 - Corporate Banking & Treasury Operations
 - SQL, Python
-- Business Intelligence (Tableau)
+- Business Intelligence (Tableau, Looker Studio)
 
 Feel free to explore my repositories, which demonstrate my ability to merge financial acumen with data analytics. I am passionate about using data to drive
 business performance and I am continuously improving my technical skills.
